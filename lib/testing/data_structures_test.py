@@ -101,4 +101,3 @@ class TestDataStructures:
                 "heat_level": 10,
             },
         ]
-
